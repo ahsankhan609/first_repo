@@ -59,9 +59,13 @@ Here is the example of [Key][Codanics].
 
 # 9 - Insert Code or Code Blocks
 
+<span style = "color:green">
 To print string in Python.
+</span>
+
 `print("I am String.")`
 ***
+
 > This code will show colors according to the selected Language.
 
 ```python
