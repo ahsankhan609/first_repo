@@ -8,6 +8,6 @@
 
 ***
 
-<span style="color:#FFCA33">In this repositiory i will share my all learning reading Python, Data Science and Macihne Learning.</span>
+> In this repositiory i will share my all learning regarding Python, Data Science and Macihne Learning.
 
 ***
